@@ -3,7 +3,7 @@
 I am a recent computer science graduate interested in AI, machine learning and low-level programming.
 
 ## Contact
-- Email: [oliverturk](mailto:oliverturk04@gmail.com.com)  
+- Email: [oliverturk04@gmail.com](mailto:oliverturk04@gmail.com.com)  
 - LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/oliver-turk-aa682b23b/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/oliver-turk-aa682b23b/))
 
 <!--
