@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, my name is Oliver
+
+I am a recent computer science graduate interested in AI, machine learning and low-level programming.
+
+## Contact
+- Email: [oliverturk](mailto:oliverturk04@gmail.com.com)  
+- LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/oliver-turk-aa682b23b/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/oliver-turk-aa682b23b/))
 
 <!--
 **OliverTurk/OliverTurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
